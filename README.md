@@ -20,3 +20,9 @@
   Link: https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/
 # Aug 10 
   Started the project
+# Aug 11
+  Build a Simple Face Recognation System using OpenCV in Google Colabatory
+  
+  Link of that project: https://colab.research.google.com/drive/1CEjzaMlzxqJ1sqI2nBxvwbYg0rletIqs#scrollTo=GpJ4fHqN9e7C
+  
+  Started building Real-Time Face Recognation Project 
