@@ -4,6 +4,7 @@
   Studied about OpenCV and FaceNet
   
   OpenCV link: https://www.superdatascience.com/blogs/opencv-face-recognition
+  
   FaceNet link: https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
 # Aug 7
   Saw a video of building a project of FaceMask and try to get the idea
