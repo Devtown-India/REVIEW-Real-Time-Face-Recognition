@@ -45,3 +45,13 @@
    
    Link: https://blog.netcetera.com/face-recognition-using-one-shot-learning-a7cf2b91e96c
    
+  # Aug 18
+   Study Siamese Network for One-Shot Learning
+   
+   Link: https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
+   
+  # Aug 19
+   Started documentation of my project
+   
+  # Aug 20
+   Completed the documentation
